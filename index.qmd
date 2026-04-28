@@ -1,6 +1,6 @@
 ---
 title: "Tutorials"
-date: ""
+date: "04/28/26"
 listing:
   contents: 
     - posts
